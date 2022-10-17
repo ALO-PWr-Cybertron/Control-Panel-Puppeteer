@@ -1,0 +1,10 @@
+{
+    "name": "control-panel-puppeteer",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Maciej Opaliński <poprostumieciek@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^19.0.0"
+    }
+}
